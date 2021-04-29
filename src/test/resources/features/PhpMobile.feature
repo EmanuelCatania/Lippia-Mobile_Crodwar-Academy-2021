@@ -1,6 +1,6 @@
 Feature: El usuario realiza una reserva
 
-  @PHP
+  @PHPDeprecado
   Scenario: Realizar Reserva en PHP Travels
     Given el usuario se encuentra en la home de la app
     When el usuario tapea el icono VISA
